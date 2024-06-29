@@ -26,7 +26,7 @@ example.json
     "analysisInput": {
         "documents": [
             {
-                "text": "The doctor prescried 200mg Ibuprofen.",
+                "text": "The doctor prescribed 200mg Ibuprofen.",
                 "language": "en",
                 "id": "1"
             }
@@ -203,7 +203,7 @@ The following JSON is an example of the Language response body from the containe
                             "text": "General"
                           },
                           "text": {
-                            "div": "<div>\r\n\t\t\t\t\t\t\t<h1>General</h1>\r\n\t\t\t\t\t\t\t<p>The doctor prescried 200mg Ibuprofen.</p>\r\n\t\t\t\t\t</div>"
+                            "div": "<div>\r\n\t\t\t\t\t\t\t<h1>General</h1>\r\n\t\t\t\t\t\t\t<p>The doctor prescribed 200mg Ibuprofen.</p>\r\n\t\t\t\t\t</div>"
                           },
                           "entry": [
                             {
